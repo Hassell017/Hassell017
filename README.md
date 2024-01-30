@@ -1,4 +1,4 @@
-<h1>Hi, I'm Damien! <br/><a href="https://github.com/Hassell017">Cybersecurity Labs</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Damien! <br/><a href="https://github.com/Hassell017">Cybersecurity Labs</a>, <a href="www.linkedin.com/in/damien-hassell-0b4593166/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
